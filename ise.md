@@ -1,5 +1,5 @@
 ## Tarea3 - Nombre- Carnet
-*__¿Qué es un diccionario de datos?__
+* __¿Qué es un diccionario de datos?__
 
 >Feugiat accumsan lorem eu ac lorem amet sed accumsan dproductosc. Blandit orci porttitor semper. Arcu phasellus tortor enim mi nisi praesent dolor adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor accumsan consequat adipiscing lorem dolor.
 
